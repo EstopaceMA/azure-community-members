@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "Mark Anthony Estopace",
+    "role": "Senior Full Stack Developer",
+    "picture": "https://avatars.githubusercontent.com/u/37571727?s=400&u=9fccba64b859437b66d45767ff6b458efc75a338&v=4",
+    "bio": "Building web applications with Azure services.",
+    "socials": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Prince Andrew Anire",
+    "role": "CloudOps Engineer",
+    "picture": "/prince.jpeg",
+    "bio": "Building web applications with Azure services.",
+    "socials": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Nikko Cajayon",
+    "role": "Community Developer",
+    "picture": "/nikko.jpg",
+    "bio": "Building web applications with Azure services.",
+    "socials": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com"
+    }
+  }
+]
