@@ -56,7 +56,6 @@ jobs:
             --resource-group ${{ vars.AZURE_RESOURCE_GROUP }} \
             --location ${{ vars.AZURE_LOCATION }} \
             --image ${{ vars.DOCKERHUB_USERNAME }}/${{ vars.AZURE_CONTAINER_APP_NAME }}:main
-            --debug
 
       - name: Enable ingress
         run: |
