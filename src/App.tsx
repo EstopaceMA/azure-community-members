@@ -38,7 +38,7 @@ function App() {
       <main className="container mx-auto px-4 py-12">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-3">
-            Our Community Members
+            Our Community Members!!!
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Join our vibrant community of Azure enthusiasts. Contribute by
