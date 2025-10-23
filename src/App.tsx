@@ -15,7 +15,7 @@ function App() {
               <img src="/azure-ph-logo.png" alt="Azure PH Logo" className="w-16 h-16" />
               <div>
                 <h1 className="text-3xl md:text-4xl font-bold">
-                  Microsoft Azure Community
+                  FEU Alabang
                 </h1>
                 <p className="text-blue-100 text-sm md:text-base mt-1">
                   Philippines
